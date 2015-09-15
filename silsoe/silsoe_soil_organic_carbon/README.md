@@ -1,7 +1,16 @@
-# Silsoe organic carbon data.
+# Silsoe organic carbon data
 
 [![http://dx.doi.org/10.6084/m9.figshare.1492497](https://img.shields.io/badge/DOI-dx.doi.org%2F10.6084%2Fm9.figshare.1492497-blue.svg)](http://dx.doi.org/10.6084/m9.figshare.1492497)
 [![http://figshare.com/licensing](https://img.shields.io/badge/license-BY--CC-brightgreen.svg)](http://figshare.com/licensing)
+
+## Description
+
+A general description of the field site is available [here](../).
+
+These data describe organic carbon content and soil bulk density measurements taken at a site in Bedfordshire, England in 2011, described in:
+Upson & Burgess (2013) and Upson (2014).
+
+## Citation
 
 Cite as:
 
@@ -32,3 +41,4 @@ mMeas|| Actual measured mass from measured bulk density, i.e.: BD_g_cm3 	&times;
 ## References
 * Klute, A. (1986) *Methods of Soil Analysis: Part 1 - Physical and Mineralogical Methods*. 2nd edn. Wisconsin: American Society of Agronomy. 
 * Upson, M.A. & Burgess, P.J. (2013) Soil organic carbon and root distribution in a temperate arable agroforestry system. *Plant and Soil*, 373(1-2), pp.43–58. Avilable at: http://link.springer.com/article/10.1007%2Fs11104-013-1733-x.
+* Upson, M.A. (2014) *The carbon storage benefits of agroforestry and farm woodlands*. PhD Thesis. Cranfield University. Available at: http://dspace.lib.cranfield.ac.uk/handle/1826/9298.
