@@ -1,6 +1,13 @@
 # Silsoe fine root length and mass.
 
-DOI: http://dx.doi.org/10.6084/m9.figshare.1492498
+[![http://dx.doi.org/10.6084/m9.figshare.1492498](https://img.shields.io/badge/DOI-dx.doi.org%2F10.6084%2Fm9.figshare.1492498-blue.svg)](http://dx.doi.org/10.6084/m9.figshare.1492498)
+[![http://figshare.com/licensing](https://img.shields.io/badge/license-BY--CC-brightgreen.svg)](http://figshare.com/licensing)
+
+Cite as:
+
+Upson, Matthew (2015): Fine root length data from: Soil organic carbon and root distribution in a temperate arable agroforestry system. figshare.
+http://dx.doi.org/10.6084/m9.figshare.1492498
+Retrieved 09:35, Sep 15, 2015 (GMT)
 
 ## Data descriptive
 

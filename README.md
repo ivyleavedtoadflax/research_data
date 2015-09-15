@@ -3,32 +3,32 @@ This repository is home to data presented in the following PhD thesis, and the p
 
 Upson, M.A. (2014) The carbon storage benefits of agroforestry and farm woodlands. PhD Thesis. Cranfield University. Available at [http://dspace.lib.cranfield.ac.uk/handle/1826/9298](http://dspace.lib.cranfield.ac.uk/handle/1826/9298)
 
-Files are arranged into directories of field site first, then measurement type. Each data file is presented with a description (as a .md file). Geopgraphical location of sampling points are provided in a number of formats (geoJSON, kml, .shp). The script for producing these plots is included as [geospatial.R](geospatial.R).
+<!--Files are arranged into directories of field site first, then measurement type. Each data file is presented with a description (as a .md file). Geopgraphical location of sampling points are provided in a number of formats (geoJSON, kml, .shp). The script for producing these plots is included as [geospatial.R](geospatial.R).-->
 
 # Field sites
 
-Site prefixes and file extensions have been excluded for brevity.
+Site prefixes and file extensions have been excluded for brevity. See indiviudal README files for DOI, and additional details.
 
-## Silsoe silvoarable experiment
+## Silsoe silvoarable experiment [![license](https://img.shields.io/badge/license-BY--CC-brightgreen.svg)](http://figshare.com/licensing)
 
 The Silsoe silvoarable experiment at the Cranfield University experimental farm is described by Burgess et al. (2003, 2005).
 
 ### File descriptions
 
-|Filename|Author|Type|Description and DOI|
+|Filename|Collected by|Type|Description|
 |:---|:---|:---|:---|
-|coarse_root_agg | Matthew Upson, Francois Clavagnier | Coarse root counts | Data describe 2130 observations of coarse root counts recorded from the wall of a trench dug at 90 degrees to each of siz sample trees. Measurements were taken in 0.2 x 0.2 m squares to a depth of 1.5 m, and up to 5 m distance from the sample tree. Roots were grouped into four size classes from 2-5 mm until >20 mm. In line with the final analysis in Upson & Burgess (2013), these data have been aggregated into five distances of one metre each. http://dx.doi.org/10.6084/m9.figshare.1536717 |
-|coarse_root_raw | Matthew Upson, Francois Clavagnier | Coarse root counts | The raw version of the above but without grouping by distance. 4800 observations. http://dx.doi.org/10.6084/m9.figshare.1536770 |
-|fine_root_length | Matthew Upson, Francois Clavagnier, Pascal Pasturel | Fine root length and mass | This file is a concatenation of two datasets: the first was collected in 2004 by Pascal Pasturel (originally described in Pasturel (2004); the second was collected by Matthew Upson and Francois Clavagnier in 2011, and are described in Upson & Burgess (2013). http://dx.doi.org/10.6084/m9.figshare.1492498|
-|soil_organic_carbon | Matthew Upson, Francois Clavagnier | Soil organic carbon | These data describe 216 observations of organic carbon content and soil bulk density, and soil organic carbon stock calculations using the fixed depth and equivalent soil mass calculations (Ellert, 1995). http://dx.doi.org/10.6084/m9.figshare.1492497|
-|zimmermann_fractions | Matthew Upson | Soil organic carbon fractionation | These data describe the fractionation (Zimmermann, 2007) of eighteen samples drawn from those analysed for soil organic carbon (above). Fractionation was completed at Rothamsted Research under contract from Cranfield University. http://dx.doi.org/10.6084/m9.figshare.1481064|
+|[coarse_root_agg](silsoe/silsoe_coarse_root_agg)| Matthew Upson, Francois Clavagnier | Coarse root counts | Data describe 2130 observations of coarse root counts recorded from the wall of a trench dug at 90 degrees to each of siz sample trees. Measurements were taken in 0.2 x 0.2 m squares to a depth of 1.5 m, and up to 5 m distance from the sample tree. Roots were grouped into four size classes from 2-5 mm until >20 mm. In line with the final analysis in Upson & Burgess (2013), these data have been aggregated into five distances of one metre each.|
+|[coarse_root_raw](silsoe/silsoe_coarse_root_raw)| Matthew Upson, Francois Clavagnier | Coarse root counts | The raw version of the above but without grouping by distance. 4800 observations.|
+|[fine_root_length](silsoe/silsoe_fine_root_length)| Matthew Upson, Francois Clavagnier, Pascal Pasturel | Fine root length and mass | This file is a concatenation of two datasets: the first was collected in 2004 by Pascal Pasturel (originally described in Pasturel (2004); the second was collected by Matthew Upson and Francois Clavagnier in 2011, and are described in Upson & Burgess (2013).|
+|[soil_organic_carbon](silsoe/silsoe_soil_organic_carbon)| Matthew Upson, Francois Clavagnier | Soil organic carbon | These data describe 216 observations of organic carbon content and soil bulk density, and soil organic carbon stock calculations using the fixed depth and equivalent soil mass calculations (Ellert, 1995).|
+|[zimmermann_fractions](silsoe/silsoe_zimmermann_fractions)| Matthew Upson | Soil organic carbon fractionation | These data describe the fractionation (Zimmermann, 2007) of eighteen samples drawn from those analysed for soil organic carbon (above). Fractionation was completed at Rothamsted Research under contract from Cranfield University.|
 
 
 ## Clapham Park
 
 ### File descriptions
 
-|Filename|Author|Type|Description and DOI|
+|Filename|Author|Type|Description|
 |:---|:---|:---|:---|
 |psd| Matthew Upson, Claire Smith | Particle Size Distribution | These data describe 72 measurements of particle size distribution (PSD) taken at locations at the Clapham Park field site, north of Bedford, UK. The full standard operating procedure for the laboratory procedures is included in the [thesis](http://dspace.lib.cranfield.ac.uk/handle/1826/9298) on p.301. The location of each sample is also given. In most cases, the values of interest are included in the columns SAND, SILT, and CLAY, but percentages of three different sand fractions are also given.|
 |bd| Matthew Upson | Soil bulk density | These data describe 1985 measurements of soil bulk density taken at Clapham Park during in 2013. Samples were taken using a slot auger and compared to measurements taken by the more usual core method. See [Upson (2013)](http://dspace.lib.cranfield.ac.uk/handle/1826/9298) p.91 for details.|

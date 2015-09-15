@@ -1,6 +1,13 @@
 # Silsoe coarse root count data (aggregated)
 
-DOI: http://dx.doi.org/10.6084/m9.figshare.1536717
+[![http://dx.doi.org/10.6084/m9.figshare.1536717](https://img.shields.io/badge/DOI-dx.doi.org%2F10.6084%2Fm9.figshare.1536717-blue.svg)](http://dx.doi.org/10.6084/m9.figshare.1536717)
+[![http://figshare.com/licensing](https://img.shields.io/badge/license-BY--CC-brightgreen.svg)](http://figshare.com/licensing)
+
+Cite as:
+
+Upson, Matthew (2015): Coarse root data from: Soil organic carbon and root distribution in a temperate arable agroforestry system. figshare.
+http://dx.doi.org/10.6084/m9.figshare.1536717
+Retrieved 09:34, Sep 15, 2015 (GMT)
 
 ## Data descriptive
 

@@ -1,6 +1,13 @@
-# Zimmermann fractions.
+# Zimmermann fractions
 
+[![http://dx.doi.org/10.6084/m9.figshare.1481064](https://img.shields.io/badge/DOI-dx.doi.org%2F10.6084%2Fm9.figshare.1481064-blue.svg)](http://dx.doi.org/10.6084/m9.figshare.1481064)
+[![license](https://img.shields.io/badge/license-BY--CC-brightgreen.svg)](http://figshare.com/licensing)
+
+Cite as:
+
+Upson, Matthew (2015): Zimmermann soil organic carbon fractionation data from: Soil organic carbon and root distribution in a temperate arable agroforestry system. figshare.
 http://dx.doi.org/10.6084/m9.figshare.1481064
+Retrieved 12:00, Sep 15, 2015 (GMT)
 
 ## Data descriptive
 

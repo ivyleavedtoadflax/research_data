@@ -1,6 +1,13 @@
 # Silsoe organic carbon data.
 
+[![http://dx.doi.org/10.6084/m9.figshare.1492497](https://img.shields.io/badge/DOI-dx.doi.org%2F10.6084%2Fm9.figshare.1492497-blue.svg)](http://dx.doi.org/10.6084/m9.figshare.1492497)
+[![http://figshare.com/licensing](https://img.shields.io/badge/license-BY--CC-brightgreen.svg)](http://figshare.com/licensing)
+
+Cite as:
+
+Upson, Matthew (2015): Soil organic carbon data from: Soil organic carbon and root distribution in a temperate arable agroforestry system. figshare.
 http://dx.doi.org/10.6084/m9.figshare.1492497
+Retrieved 09:35, Sep 15, 2015 (GMT)
 
 ## Data descriptive
 
