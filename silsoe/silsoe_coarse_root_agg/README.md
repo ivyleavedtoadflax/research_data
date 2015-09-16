@@ -13,6 +13,8 @@ The second dataset was collected by Pascal Pasturel in in 2004 during an MSc by 
 
 The final part of the data were collected by Matthew Upson and Francois Clavagnier in 2011, and are described in Upson & Burgess (2013) and Upson (2014).
 
+Note that in 1996, sampling did not extend further than \num{4.8} m from the tree.
+
 ## Citation
 
 Cite as:
@@ -36,7 +38,7 @@ Retrieved 09:34, Sep 15, 2015 (GMT)
 ## References
 
 * Nkomaula, J.C. (1996) *Root distribution of Four-Year-Old Poplar in a Silvo-Arable System*. MSc Thesis. Cranfield: Cranfield University.
-*Burgess, P., Nkomaula, J. and Medeiros Ramos, A. (1997) ‘Root distribution and water use in a four-year old silvoarable system’, *Agroforestry Forum*, 8(3), pp. 15–19.
+* Burgess, P., Nkomaula, J. and Medeiros Ramos, A. (1997) ‘Root distribution and water use in a four-year old silvoarable system’, *Agroforestry Forum*, 8(3), pp. 15–19.
 * Pasturel, P. (2004) *Light and water use in a poplar silvoarable system*. MSc Thesis. Cranfield: Cranfield University
 * Upson, M.A. & Burgess, P.J. (2013) Soil organic carbon and root distribution in a temperate arable agroforestry system. *Plant and Soil*, 373(1-2), pp.43–58. Avilable at: http://link.springer.com/article/10.1007%2Fs11104-013-1733-x.
 * Upson, M.A. (2014) *The carbon storage benefits of agroforestry and farm woodlands*. PhD Thesis. Cranfield University. Available at: http://dspace.lib.cranfield.ac.uk/handle/1826/9298.

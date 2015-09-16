@@ -34,7 +34,7 @@ Retrieved 09:35, Sep 15, 2015 (GMT)
 |BD_g_cm3| g cm<sup>-3</sup>| Soil bulk density, in grams per centimetre cubed. measured using the ring method described by Klute (1986).|
 |mEquiv|  | Assumed mass of each soil layer sampled. In this case 1 gm cm<sup>-3</sup> &times; di_cm &times; 10<sup>4</sup>.
 mMeas|| Actual measured mass from measured bulk density, i.e.: BD_g_cm3 	&times; di_cm.|
-|tC|| Depth adjusted required to reach mEquiv. Calculated from ((mEquiv - mMeas) 	&times; 10<sup>-</sup>4) / BD_g_cm3.|
+|tC|| Depth adjusted required to reach mEquiv. Calculated from ((mEquiv - mMeas) 	&times; 10<sup>-4</sup>) / BD_g_cm3.|
 |SOC_ESM_Mg_ha1| Mg ha<sup>-1</sup> | Soil organic carbon stock (Mg ha<sup>-1</sup>) calculated from the equivalent soil mass technique by: (OCC_g_100g &times; 0.1) &times; BD_g_cm3 &times; tC &times; 10<sup>4</sup> &times; 10<sup>-</sup>.
 |SOC_Mg_ha2| Mg ha<sup>-1</sup> | Soil organic carbon stock (Mg ha<sup>-1</sup>) caclulated using the fixed depth method: OCC_g_100g &times; BD_g_cm3 &times; di_cm.|
 
