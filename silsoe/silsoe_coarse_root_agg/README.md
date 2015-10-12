@@ -27,7 +27,7 @@ Retrieved 09:34, Sep 15, 2015 (GMT)
 
 |Name|Units|Description|
 |:---|:---|:---|
-|year:| years | Year of data collection {1996, 20014, 2011}.|
+|year:| years | Year of data collection {1996, 2004, 2011}.|
 |block|| Following the original experimental design, there are three replicate blocks {B1, B2, B3}.|
 |treat|| Cropping treatment. Either C for continuously cropped, or F for continously Fallow.|
 |dist_m| m | Distance from sampled tree in metres. Finer scale measurements (over 0.2 m) were aggregated into distances of 1 m {0, 1, 2, 3, 4}.|
